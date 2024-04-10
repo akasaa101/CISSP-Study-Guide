@@ -1,0 +1,20 @@
+repo_name: akasaa101/CISSP-Study-Guide
+report_id: c477550bedc1951a82a7dfceb1c46d51
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:54:55+00:00'
+requested_by: web-flow
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/akasaa101/CISSP-Study-Guide
+  detection_source: Repo Metadata
